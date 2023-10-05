@@ -79,3 +79,26 @@ a {
 .hide {
     display: none;
 }
+
+/* Introduction */
+
+.introduction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+.title-name {
+    font-size: 3.2rem;
+    padding-top: 20px;
+}
+
+.name {
+    color: #00ffff;
+}
+
+.title-subtext {
+    padding: 30px;
+}
